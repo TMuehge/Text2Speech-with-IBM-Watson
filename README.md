@@ -5,6 +5,7 @@ speech using IBM Watson text to speech service on the IBM cloud with Python on a
 
 **References:**
 
+
 https://youtu.be/A9_0OgW1LZU
 
 https://developer.ibm.com/tutorials/using-watson-text-to-speech-and-speech-synthesis-markup-language-ssml/
