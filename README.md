@@ -4,6 +4,7 @@ We prepared a little movie from presentation slides. Instead of recording the sp
 speech using IBM Watson text to speech service on the IBM cloud with Python on a Jupyter notebook.
 
 **References:**
+
 https://youtu.be/A9_0OgW1LZU
 
 https://developer.ibm.com/tutorials/using-watson-text-to-speech-and-speech-synthesis-markup-language-ssml/
